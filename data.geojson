@@ -1707,6 +1707,8 @@
         ]
       },
       "properties": {
+        "addr:city": "Fairfax",
+        "addr:state": "VA",
         "arcade_game": "skeeball;driving;shooting",
         "leisure": "amusement_arcade",
         "name": "Corner Pocket",
@@ -1993,6 +1995,7 @@
         "leisure": "sports_centre",
         "name": "Skatequest Ice Rinks",
         "sport": "ice_skating",
+        "website": "https://www.skatequest.com/",
         "@id": "way/44622489",
         "@type": "way"
       }
