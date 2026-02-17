@@ -859,6 +859,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.8241877,
+          39.0952573
+        ]
+      },
+      "properties": {
+        "addr:city": "Bluemont",
+        "addr:state": "VA",
+        "attraction": "train",
+        "name": "Cow Train",
+        "operator": "Great Country Farms",
+        "tourism": "attraction",
+        "website": "https://greatcountryfarms.com/attractions//",
+        "@id": "node/13283736149",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.4234891,
           39.0319397
         ]
@@ -1183,52 +1204,6 @@
         "name": "Kako Claw",
         "website": "https://kakoclaw.com/locations/springfield-town-center/",
         "@id": "node/13375177571",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3580945,
-          38.8629272
-        ]
-      },
-      "properties": {
-        "addr:city": "Fairfax",
-        "addr:housenumber": "11750",
-        "addr:state": "VA",
-        "addr:street": "Fair Oaks Mall",
-        "attraction": "animal_scooter",
-        "description": "Electric Animal Scooters",
-        "indoor": "yes",
-        "name": "Fluffy Rides",
-        "tourism": "attraction",
-        "website": "https://www.fluffyrides.com/",
-        "@id": "node/13375973544",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.5061504,
-          38.7723067
-        ]
-      },
-      "properties": {
-        "addr:city": "Manassas",
-        "addr:state": "VA",
-        "addr:street": "Sudley Road",
-        "attraction": "animal_scooter",
-        "indoor": "yes",
-        "name": "Fluffy Rides",
-        "tourism": "attraction",
-        "website": "https://www.fluffyrides.com/",
-        "@id": "node/13376059279",
         "@type": "node"
       }
     },
